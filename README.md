@@ -1,7 +1,6 @@
 # Hangman
 
-A game in which you need to guess the hidden word
-This is a Ruby application and requires the Ruby language to run.
+A game in which you need to guess the hidden word. This is a Ruby application and requires the Ruby language to run.
 
 Running:
 
