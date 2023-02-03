@@ -1,7 +1,10 @@
 # Hangman
 
-A game in which you need to guess the hidden word
+A game in which you need to guess the hidden word.
+
 This is a Ruby application and requires the Ruby language and bundler to run.
+
+The game was created on Ruby 3.1.2
 
 Running:
 
@@ -18,10 +21,10 @@ bundle exec ruby main.rb
 
 ### Add or change game words
 
-To add or change game words, change the text file `words.txt`
+To add or change game words, change the text file `words.txt`.
 
 ```
 hangman/data/words.txt
 ```
 
-The case of the words does not matter
+The case of the words does not matter.
